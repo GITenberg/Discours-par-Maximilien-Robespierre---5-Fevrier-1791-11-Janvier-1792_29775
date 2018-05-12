@@ -1,0 +1,35 @@
+_repo: Discours-par-Maximilien-Robespierre---5-Fevrier-1791-11-Janvier-1792_29775
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robespierre, Maximilien
+    alias: Robespierre, Maximilien Marie Isidore de
+    birthdate: 1758
+    deathdate: 1794
+    gutenberg_agent_id: '34151'
+    url: http://www.gutenberg.org/2009/agents/34151
+    wikipedia: http://fr.wikipedia.org/wiki/Maximilien_Robespierre
+  editor:
+    agent_name: Vellay, Charles
+    birthdate: 1876
+    deathdate: 1953
+    gutenberg_agent_id: '34155'
+    url: http://www.gutenberg.org/2009/agents/34155
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2009-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29775'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History -- Revolution, 1789-1799'
+title: Discours par Maximilien Robespierre — 5 Fevrier 1791-11 Janvier 1792
+url: http://www.gutenberg.org/ebooks/29775
