@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '34155'
     url: http://www.gutenberg.org/2009/agents/34155
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29775#Discours-par-Maximilien-Robespierre---5-Fevrier-1791-11-Janvier-1792
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2009-08-23'
 gutenberg_type: Text
